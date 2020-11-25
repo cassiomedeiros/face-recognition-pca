@@ -44,7 +44,7 @@ Toda a lógica do algorítimo está localizada nas classes criadas na pasta "../
 3. Acessar o notebook "test-face-recognition_v00" na pasta "../notebooks";
 4. Com o notebook "test-face-recognition_v00" aberto, acessar o menu "Cell" e executar o notebook clicando em "Run All".
 
-### Log de saída do algorítimo
+### Log de saída do algorítmo
 
 ```python
 pca = PCA(images_path="../data/external/orl2/",
